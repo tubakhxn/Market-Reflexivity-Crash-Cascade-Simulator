@@ -2,6 +2,7 @@
 
 ## Creator/Dev
 **tubakhxn**
+<img width="2688" height="1427" alt="image" src="https://github.com/user-attachments/assets/b3ee2433-af4d-456e-9436-c9fbea17dba1" />
 
 ## Project Overview
 This project is a fully interactive Streamlit application that simulates nonlinear feedback loops in financial markets. It models how price deviations can trigger volatility, leverage adjustments, forced liquidations, and further price pressure, visualized as a dynamic 3D surface. The app uses:
@@ -33,3 +34,4 @@ This project is a fully interactive Streamlit application that simulates nonline
 
 ---
 For questions or improvements, contact tubakhxn.
+
